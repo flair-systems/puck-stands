@@ -1,5 +1,5 @@
-![Head On](/Puck Multi Angle Stand Head On.png?raw=true)
-![Side Angled](/Puck Multi Angle Stand Side Angled.png?raw=true)
+![Head On](/Puck%20Multi%20Angle%20Stand%20Head%20On.png?raw=true)
+![Side Angled](/Puck%20Multi%20Angle%20Stand%20Side%20Angled.png?raw=true)
 
 
 # puck-stands

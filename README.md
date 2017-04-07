@@ -1,6 +1,6 @@
-![Head On](/Puck%20Multi%20Angle%20Stand%20Head%20On.png?raw=true)
-![Side Angled](/Puck%20Multi%20Angle%20Stand%20Side%20Angled.png?raw=true)
-![Angled Head On](/Puck%20Multi%20Angled%20Stand%20Angled%20Head%20On.png?raw=true)
+![Head On](https://raw.githubusercontent.com/flair-systems/puck-stands/master/Puck%20Multi%20Angle%20Stand%20Head%20On.png)
+![Side Angled](https://raw.githubusercontent.com/flair-systems/puck-stands/master/Puck%20Multi%20Angle%20Stand%20Side%20Angled.png)
+![Angled Head On](https://raw.githubusercontent.com/flair-systems/puck-stands/master/Puck%20Multi%20Angled%20Stand%20Angled%20Head%20On.png)
 
 # Puck Stands
 3D Printable Puck Stands
@@ -24,3 +24,6 @@ For the Puck Door to Stand
 For the Stand to Board  
 3  | 94150A305  
 3  | 92010A010  
+
+[Puck Stands Github Page](https://flair-systems.github.io/puck-stands/) | [Puck Stands Repository](https://flair-systems.github.io/puck-stands/)
+

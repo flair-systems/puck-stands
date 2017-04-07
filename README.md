@@ -1,6 +1,6 @@
 ![Head On](/Puck%20Multi%20Angle%20Stand%20Head%20On.png?raw=true)
 ![Side Angled](/Puck%20Multi%20Angle%20Stand%20Side%20Angled.png?raw=true)
-
+![Angled Head On](/Puck%20Multi%20Angled%20Stand%20Angled%20Head%20On.png?raw=true)
 
 # Puck Stands
 3D Printable Puck Stands

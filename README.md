@@ -1,5 +1,5 @@
-[a relative link](Puck Multi Angle Stand Head On.png?raw=true "Head On")
-[a relative link](Puck Multi Angle Stand Side Angled.png?raw=true "Side Angled")
+![Head On](Puck Multi Angle Stand Head On.png?raw=true)
+![Side Angled](Puck Multi Angle Stand Side Angled.png?raw=true)
 
 
 # puck-stands

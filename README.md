@@ -6,7 +6,7 @@
 3D Printable Puck Stands
 
 ### What's a Puck?
-Puck is a device made by ![Flair](https://flair.co) for use as a remote sensor, wireless thermostat, minisplit smart remote.  It can be used with virtually all IR controlled Minisplits, Portable Heaters, Window ACs and can work along side Flair's Smart Vents for room by control.
+Puck is a device made by [Flair](https://flair.co) for use as a remote sensor, wireless thermostat, minisplit smart remote.  It can be used with virtually all IR controlled Minisplits, Portable Heaters, Window ACs and can work along side Flair's Smart Vents for room by control.
 
 ### What's a Puck Stand?
 A Puck Stand is a device to hold a Puck in a consistent position with respect to a surface. It may be for display and sales purposes or for mounting in special circumstances.

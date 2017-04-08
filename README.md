@@ -25,5 +25,5 @@ For the Stand to Board
 3  | 94150A305  
 3  | 92010A010  
 
-[Puck Stands Github Page](https://flair-systems.github.io/puck-stands/) | [Puck Stands Repository](https://flair-systems.github.io/puck-stands/)
+[Puck Stands Github Page](https://flair-systems.github.io/puck-stands/) | [Puck Stands Repository](https://github.com/flair-systems/puck-stands)
 
